@@ -1,3 +1,3 @@
 # online-shopping-intention
 
-Online shopping intention using K Means.
+This Machine Learning project shows the online shopping intention of the customers. It uses the machine learning algorithm known as K Means.
